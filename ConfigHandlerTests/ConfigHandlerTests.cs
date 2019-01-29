@@ -57,7 +57,7 @@ namespace Mirle.A33.ConfigHandler.Tests
                 KeyName = "SomeKey",
                 DefaultValue = "SomeDefaultValue"
             };
-            var expected = "SomeValue";
+            var expected = "SomeValue";z
 
             //act
             var actual = handler.GetDataToString();

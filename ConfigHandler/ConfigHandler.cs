@@ -152,9 +152,9 @@ namespace Mirle.A33.ConfigHandler
             {
                 CheckDirPathExist();
 
-                Path.ChangeExtension(FilePath, "ini");
+                FilePath = Path.ChangeExtension(FilePath, @".ini");
 
-                File.Create(FilePath);                
+                File.Create(FilePath);
 
                 Console.WriteLine("Config file is not exist.");
                 Console.WriteLine("Generate a file with FilePath.");
