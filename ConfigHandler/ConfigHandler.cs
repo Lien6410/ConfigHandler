@@ -6,7 +6,7 @@ using System.IO;
 
 namespace Mirle.A33.ConfigHandler
 {
-    public class ConfigHandler
+    public class ConfigHandler : IConfigHandler
     {
         private const int STRING_BUILDER_SIZE = 256;
 
