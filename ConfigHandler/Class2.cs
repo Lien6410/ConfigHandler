@@ -8,6 +8,6 @@ namespace ConfigHandler
 {
     class Class2
     {
-        string thisisclass2;
+        string thisisclass3;
     }
 }
