@@ -9,5 +9,6 @@ namespace ConfigHandler
     class Class2
     {
         string thisisclass3;
+        int aaa;
     }
 }
