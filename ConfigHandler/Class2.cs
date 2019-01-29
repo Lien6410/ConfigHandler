@@ -10,6 +10,7 @@ namespace ConfigHandler
     {
         string thisisclass3;
         int aaa;
+        string eee;
         int bb;
     }
 }
