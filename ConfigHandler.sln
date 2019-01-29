@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigHandler", "ConfigHandler\ConfigHandler.csproj", "{9E1D5E3E-3AB2-4CD7-977D-276CF6AE0E18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigHandlerTests", "ConfigHandlerTests\ConfigHandlerTests.csproj", "{B76F41B0-B42A-48C3-9EA9-1308BE05B5CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9E1D5E3E-3AB2-4CD7-977D-276CF6AE0E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E1D5E3E-3AB2-4CD7-977D-276CF6AE0E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E1D5E3E-3AB2-4CD7-977D-276CF6AE0E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76F41B0-B42A-48C3-9EA9-1308BE05B5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76F41B0-B42A-48C3-9EA9-1308BE05B5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76F41B0-B42A-48C3-9EA9-1308BE05B5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76F41B0-B42A-48C3-9EA9-1308BE05B5CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
